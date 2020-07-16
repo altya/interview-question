@@ -32,8 +32,15 @@
 
 
 
+## TODO
+
+- [ ] 将题目按类型整理
+- [ ] 添加前端相关题目
+
+
+
 **题目源自实验室各位大佬，本人仅作归纳整理。**
 
 **最后，跪求大厂offer！**
 
-![](https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1594900307&di=9f28be8e4658647f31fb7f5543af759b&src=http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20171231/9ed870c0ba32436eb86481eca7bed4e3.jpeg)
+![image](.\img\offer.jpg)
