@@ -43,4 +43,4 @@
 
 **最后，跪求大厂offer！**
 
-![image](.\img\offer.jpg)
+![image](./img/offer.jpg)
